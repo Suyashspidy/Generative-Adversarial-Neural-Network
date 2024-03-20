@@ -14,7 +14,7 @@ To use this GAN for synthetic data generation, follow these steps:
 
 Clone the repository to your local machine:
 
-git clone https://github.com/your-username/gan-synthetic-data.git
+git clone https://github.com/Suyashspidy/Generative-Adversarial-Neural-Network.git
 Install the required dependencies:
 
 pip install -r requirements.txt
